@@ -1,9 +1,8 @@
 ***
-                     __MSc Genetics of human disease
+                     MSc Genetics of human disease
                        
-                          Research Project R code__
-                                               
-Project title: Mutational forces shaped by the cell division/quiescence equilibrium in cancer. 
+                      Research Project R code
+                      Project title: Mutational forces shaped by the cell division/quiescence equilibrium in cancer. 
 
                           Candidate Number: MBFB0
              
